@@ -1,2 +1,3 @@
-# state-sim
-Simulation
+# How to Run
+
+`npm i && npm run start`
